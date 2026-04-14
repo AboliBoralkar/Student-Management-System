@@ -40,7 +40,7 @@ A console-based Java application developed using Eclipse IDE that performs CRUD 
 
 ## 👨‍💻 Author
 
-Your Name  
+Aboli Boralkar  
 GitHub: https://github.com/AboliBoralkar
 
 ---
